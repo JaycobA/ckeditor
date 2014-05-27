@@ -9,7 +9,7 @@ CKEditor is a ready-for-use HTML text editor designed to simplify web content cr
 
 ## Additional Features
 
-* Ckeditor version 4.4.0 (full)
+* Ckeditor version 4.4.1 (full)
 * removed all language files except de.js and en.js
 
 ## Installation
